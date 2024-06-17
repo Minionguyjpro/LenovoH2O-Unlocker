@@ -1,8 +1,8 @@
 # LenovoH2O-Unlocker
-# These Are tool/Source From "The Vault", that I decided to upload, so expect not fully polished product, or very slow Fixes if any
+These Are tool/Source From "The Vault", that I decided to upload, so expect not fully polished product, or very slow Fixes if any
 # USE AT YOUR OWN RISK,I won’t be responsible for any damage.
 
-# Latest BIOS and 2022 Model are not supported
+Latest BIOS and 2022 Model are not supported
 
 ## Is my bios Is supported by this:
 To check if your bios is Unlockable by this: search for “cE!” unicode text in UEFI tool, if at lest 2 result are found (one on DebugPageDxe and the other on H20FormBrowserDXE), you can give a shot.
