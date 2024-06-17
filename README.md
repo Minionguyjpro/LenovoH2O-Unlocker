@@ -8,19 +8,11 @@
 To check if your bios is Unlockable by this: search for “cE!” unicode text in UEFI tool, if at lest 2 result are found (one on DebugPageDxe and the other on H20FormBrowserDXE), you can give a shot.
 Alternatively just run it and check...
 
-## Question and Techinal discussion (Please keep the "Will this work", away from here)
-You can try to reach me over https://discord.gg/Mj2Zc3jDFW
-
-## Support/Donate
-*  [Patreon](https://www.patreon.com/SmokelessCPU)
-
-
-
 ## I need a SPI Flasher?:
 No
 
 ## How to use
-Download the exe from the [Release Page](https://github.com/SmokelessCPUv2/LenovoH2O-Unlocker/releases/latest), run with admin privileges, the bios will be unlocked, run again it will be locked again.
+Download the exe run with admin privileges, the bios will be unlocked, run again it will be locked again.
 
 ## How this work/worked, and how was discovered
 
